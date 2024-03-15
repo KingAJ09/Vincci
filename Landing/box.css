@@ -1,0 +1,35 @@
+.parent{
+position: relative;
+margin: auto;
+margin-top: 5rem;
+width: 50vw;
+height: 60vh;
+background-color: blue;
+}
+
+.box1{
+position: absolute;
+width: 30%;
+height: 40%;
+background-color: red;
+top: 20%;
+left: 65%;
+}
+
+.box2{
+position: absolute;
+width: 30%;
+height: 40%;
+background-color: green;
+top:20%;
+left: 35%;
+}
+
+.box3{
+position: absolute;
+width: 30%;
+height: 40%;
+background-color: orange;
+top: 20%;
+left: 5%;
+}
